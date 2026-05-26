@@ -130,22 +130,6 @@ flutter run
 
 ## 📸 Screenshots
 
-Add app screenshots here.
-
-Example:
-
-```md id="5g1e00"
-![Login Screen](screenshots/login.png)
-```
-
----
-
-## 👨‍💻 Author
-
-Your Name
-
-GitHub:
-[GitHub Profile](https://github.com/your-username?utm_source=chatgpt.com)
 
 ---
 
